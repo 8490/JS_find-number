@@ -2,7 +2,7 @@ document.getElementById("check").addEventListener(
     "click", checkNumber)
 
     let counter = 0;
-    const myNum = Math.floor(Math.random() * 5);
+    const myNum = Math.floor(Math.random() * 101);
     
     function checkNumber(){
         let guessNum = document.getElementById("guess").value;
