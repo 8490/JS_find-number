@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://www.funbrain.com/assets/img/content-cards/F2qRmLhRnmebc8jJAUjr_GuessTheNumber%403x.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+h1 {
+    margin: 60px 0;
+    font: 32px 'Times New Roman', Times, serif; 
+    font-weight: bold;
+}
+
+h2 {
+    margin: 20px;
+    font: 24px 'Times New Roman', Times, serif; 
+    font-weight: bold;
+}
